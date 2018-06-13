@@ -5,5 +5,5 @@
 
 
 
-Large parts of the project is inspired by an interesting project
+Large parts of the project are inspired by an interesting project
 https://github.com/adityathebe/evolutionSimulator
