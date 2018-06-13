@@ -1,6 +1,8 @@
 
 **This is simulation of Great filter in Fermi Paradox.**
 
+Artificial creatures are trying to learn how to move from left side of the screen to right. They start with an artifical brain made of simple 3 layer neural network and random weights. The walls represent a filter to screen out creatures which master jumping over walls with increasing height. 
+
 ![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Screen%20Shot%202018-06-13%20at%204.52.42%20PM.png)
 
 
