@@ -35,8 +35,8 @@ muscles length controlling 5 muscle groups
 
 
 ![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%2017-03-12.gif)
-![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%17-29-22.gif)
-![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%17-30-04.gif)
+![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%2017-29-22.gif)
+![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%2017-30-04.gif)
 
 
 
