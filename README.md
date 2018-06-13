@@ -3,6 +3,9 @@
 
 ![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Screen%20Shot%202018-06-13%20at%204.52.42%20PM.png)
 
+
+Live Demo: https://sarkarsaurabh.github.io/fermi_paradox_sim/
+
 Project Structure
 
 Environments : Various Environment Models
