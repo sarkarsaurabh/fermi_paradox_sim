@@ -1,5 +1,5 @@
 
-##This is simulation of Great filter in Fermi Paradox.
+#This is simulation of Great filter in Fermi Paradox.
 
 ![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Screen%20Shot%202018-06-13%20at%204.52.42%20PM.png)
 
@@ -33,9 +33,10 @@ muscles length controlling 5 muscle groups
 4. Random mutations to create new neural weights.
 
 
-![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%2017-03-48.gif)
-![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%2017-03-12.gif)
 
+![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%2017-03-12.gif)
+![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%17-29-22.gif)
+![screenshot](https://github.com/sarkarsaurabh/fermi_paradox_sim/blob/master/screenshots/Jun-13-2018%17-30-04.gif)
 
 
 
