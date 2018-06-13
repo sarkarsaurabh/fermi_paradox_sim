@@ -13,9 +13,10 @@ function setup() {
 	let canvas = createCanvas(windowWidth * 0.95, windowHeight * 0.95);
 	frameRate(60);
 	rectMode(CENTER);
-	textSize(18)
-	fill(255);
-
+	textSize(18);
+	
+	
+	
 	// Initialize Generation
 	generation.initialize(Person);
 	generation.species.forEach((creature) => { creature.add_to_world(world) });
