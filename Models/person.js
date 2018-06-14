@@ -276,7 +276,7 @@ class Person {
 		this.move_m2(result[1]);
 		this.move_m3(result[2]);
 		this.move_m4(result[3]);
-		this.move_m4(result[4]);
+		this.move_m5(result[4]);
 	}
 
 	clone() {
