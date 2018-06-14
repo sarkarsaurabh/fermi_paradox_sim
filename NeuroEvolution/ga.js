@@ -107,13 +107,15 @@ class Generation {
 
         for (let i = 0; i < this.population; i++) {
 
-            let r = Math.random();
+            let r1 = Math.random();
+            let r2 = Math.random();
+
             // console.log("r" , r);
             let parentA_id = 0;
             let parentB_id = 0;
             for (let j = 0; j < this.population; j++){
                
-                if(score_x[j][1] >= r){
+                if(score_x[j][1] >= r1){
                     parentA_id = score_x[j][0];
                     // console.log("selected", score_x[j][1]);
                     break;
@@ -122,7 +124,7 @@ class Generation {
 
             for (let j = 0; j < this.population; j++){
                
-                if(score_x[j][1] >= r){
+                if(score_x[j][1] >= r2){
                     parentB_id = score_x[j][0];
                     break;
                 }
